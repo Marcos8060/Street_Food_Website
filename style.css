@@ -46,3 +46,13 @@ i{
     display: flex;
     justify-content: space-between;
 }
+.img2{
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 15%;
+}
+.img3{
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 150px;
+}
