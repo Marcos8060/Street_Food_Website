@@ -125,4 +125,18 @@ color: #6FB944;
 .menu{
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 10px;
+}
+.menu_section{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    height: 20vh;
+}
+.menu_item{
+    background-color: #FFFFFF;
+    margin: 20px;
+    border-bottom-right-radius: 20px;
+    position: relative;
 }
