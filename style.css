@@ -113,3 +113,17 @@ i{
     color: white;
     font-weight: 700;
 }
+.circle{
+    position: absolute;
+    width: 80%;
+    height: 60%;
+    bottom: 50%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 550%;
+    right: 0;
+    top: 0;
+    background: #B8E79C;
+    clip-path:  circle(850px  at  right);
+    margin-bottom: 100px;
+    z-index: -1;
+}
