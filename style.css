@@ -52,7 +52,7 @@ i{
 .img2{
     width: 50px;
     border-radius: 50%;
-    margin-left: 15%;
+    margin-left: 22%;
 }
 .img3{
     width: 50px;
@@ -67,4 +67,29 @@ i{
 }
 .food{
     color: #E8AC3A;
+}
+.food_info{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.food_info .text{
+    margin-right: 100px;
+}
+.food_info div img{
+    width: 50px;
+    border-radius: 100%;
+}
+.food_info .img_container{
+    display: flex;
+}
+.food_info .img_container img{
+    margin: 50px;
+}
+.food_info .img_container .img5{
+    margin-left: 350px;
+}
+.food_info .img_container .img4{
+    margin-left: 100px;
 }
