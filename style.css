@@ -56,3 +56,12 @@ i{
     border-radius: 50%;
     margin-right: 150px;
 }
+.food_title h1{
+    font-weight: bold;
+}
+.street{
+    color: #6CB840;
+}
+.food{
+    color: #E8AC3A;
+}
