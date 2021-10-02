@@ -128,16 +128,13 @@ color: #6FB944;
     margin-bottom: 10px;
 }
 .menu_container{
-    background-color: #FFFFFF;
+    background-color: #EAF3E4;
 }
 .menu_section1{
-    background-color: #EAF3E4;
-    width: 80%;
-    margin: auto;
     display: flex;
     align-items: center;
     height: 30vh;
-    padding: 50px;
+    padding: 60px;
 }
 .menu_item{
     background-color: #FFFFFF;
