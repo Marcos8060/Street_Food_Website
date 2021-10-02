@@ -218,3 +218,37 @@ color: #6FB944;
 .contact_container input:placeholder-shown{
     font-weight: 700;
 }
+.footer_container{
+    background-color: #F1FAEC;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.footer_container .foot4 {
+    display: flex;
+    flex-direction: column;
+}
+.foot4 button{
+    margin-top: 30px;
+    background-color: #6CB840;
+    border: none;
+    outline: 0;
+    color: white;
+    font-weight: bold;
+    width: 70px;
+    height: 30px;
+}
+.footer_container .foot3{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+}
+.footer_container .foot2{
+    width: 160px;
+    margin-right: 500px;
+}
+.footer_container .foot1{
+    width: 12%;
+    border-right: 2px dotted #81C35A;
+}
