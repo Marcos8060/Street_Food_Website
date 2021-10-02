@@ -178,11 +178,14 @@ color: #6FB944;
 .deals_sub_container{
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
     width: 80%;
     margin: auto;
 }
 .deals_info{
     width: 40%;
     float: right;
+}
+.hot{
+    color: #81C35A;
 }
