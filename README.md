@@ -1,6 +1,11 @@
 # Street Food Website
 This is a webiste designed and developed under the requirement of Moringa School in fulfillment of one's obligation to complete week two of Moringa School coding bootcamp. Instructions are adhered to by ensuring that only HTML and CSS are used throughout the project.
 
+## Live link to this project's GitHub Pages.
+GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
+[View Live Site](https://marcos8060.github.io/Street_Food_Website/)
+
+
 ## Author
  Marcos Ochieng - Student at Moringa School.
 
