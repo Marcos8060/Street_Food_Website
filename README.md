@@ -8,7 +8,7 @@ This is a webiste designed and developed under the requirement of Moringa School
  Kindly reach out to me through the following contacts;
 
  ### Email: marcos.otieno@student.moringaschool.com
- ### phone: +254 702854204
+ ### phone: +254 702 854 204
 
  ## Technologies Used
  Vanilla HTML and CSS
