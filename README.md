@@ -19,3 +19,6 @@ This is a webiste designed and developed under the requirement of Moringa School
 * The project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
 * Required content was in place by the deadline.
 
+## License and Copyright
+© Marcos Ochieng, Moringa school Independent project. [MIT](https://choosealicense.com/licenses/mit/)
+
