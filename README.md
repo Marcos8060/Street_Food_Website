@@ -17,6 +17,9 @@ This is a webiste designed and developed under the requirement of Moringa School
  The project is setup in the visual studio code by creating an HTML file and a related CSS file.
 
  ## Project Objectives
+ The project is to be evaluated on the following objectives;
+
+
  * The implementation of HTML concepts is covered so far in this module.
  * The project includes a custom-made stylesheet that uses typography styles, cascading, the box     model, and floats.
 * Code is clean, well-refactored, and easy to read. This includes correct indentation, spacing, and including only necessary comments.
