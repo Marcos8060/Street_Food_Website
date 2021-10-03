@@ -4,6 +4,9 @@ This is a webiste designed and developed under the requirement of Moringa School
 ## Author
  Marcos Ochieng - Student at Moringa School.
 
+ ## Technologies Used
+ Vanilla HTML and CSS
+
  ## Project Objectives
  * The implementation of HTML concepts is covered so far in this module.
  * The project includes a custom-made stylesheet that uses typography styles, cascading, the box     model, and floats.
