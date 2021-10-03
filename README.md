@@ -35,8 +35,7 @@ This is a webiste designed and developed under the requirement of Moringa School
 * Required content was in place by the deadline.
 
 ## Credits
- Many thanks to [w3schools](https://www.w3schools.com/) documentation and [freecodecamp]
- (https://www.freecodecamp.org/) for availing resources online. I found their resources very useful throughout the course of my project. Their efforts in availing the resources was very instrumental in the success of my project. I would choose them over again and recommend any individual to check on their resources whenever they'd want anything code related.
+ Many thanks to [w3schools](https://www.w3schools.com/) documentation and [freecodecamp](https://www.freecodecamp.org/) for availing resources online. I found their resources very useful throughout the course of my project. Their efforts in availing the resources was very instrumental in the success of my project. I would choose them over again and recommend any individual to check on their resources whenever they'd want anything code related.
 
 ## License and Copyright
 © Marcos Ochieng, Moringa school Independent project. [MIT](https://choosealicense.com/licenses/mit/)
