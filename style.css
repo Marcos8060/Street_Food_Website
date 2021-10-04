@@ -212,7 +212,7 @@ color: #6FB944;
 .first{
     width: 50%;
     position: relative;
-    top: 0;
+    top: -60px;
     left: 0;
     margin-bottom: 300px;
 }
@@ -220,7 +220,7 @@ color: #6FB944;
     position: absolute;
     width: 60%;
     left: 35px;
-    top: 180px;
+    top: 126px;
 }
 .deals_sub_container{
     display: flex;
@@ -232,7 +232,7 @@ color: #6FB944;
 .deals_info{
     width: 40%;
     float: right;
-    margin-bottom: 500px;
+    margin-bottom: 700px;
 }
 .hot{
     color: #81C35A;
